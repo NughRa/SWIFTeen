@@ -3,3 +3,4 @@ NIM    : 25106050063
 
 
 Figma adalah sebuah aplikasi desain UI dan prototyping berbasis web yang digunakan untuk membuat desain produk digital seperti aplikasi dan website.
+
